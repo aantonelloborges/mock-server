@@ -1,0 +1,29 @@
+{
+  "name": "mocks",
+  "version": "1.0.0",
+  "description": "Mocks de API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://...git"
+  },
+  "keywords": [
+    "nodejs",
+    "vivere",
+    "API",
+    "swagger"
+  ],
+  "author": "aantonelloborges@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4",
+    "lodash": "^4.11.0",
+    "moment": "^2.15.1",
+    "node-swagger-ui": "1.0.4",
+    "swagger-node-express": "^2.1.3"
+  }
+}
